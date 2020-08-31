@@ -44,5 +44,5 @@ Utilizando o conceito MVC (model, view, controller) foram criadas as seguintes c
 
 E por último o arquivo api.py que utiliza o Flask Framework para definir as rotas e seus métodos de acesso.
 
-O tutorial permite entender como funciona como funciona o processo de crud (create, read, update e delete) através de uma Web API. 
+O tutorial permite entender como funciona como funciona o processo de crud (create, read, update e delete) através de uma Web API. A fusão de uma API desenvolvida utilizando Python+Flask e um frontend React.js pode resultar em um app com alto desempenho...  
 
