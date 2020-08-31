@@ -22,4 +22,16 @@ Geralmente é necessário se:
   <li>Quando existe mais de uma operação envolvida. Ou seja, além da operação de recuperação de dados, exista a necessidade de inserir, atualizar e/ou excluir dados</li>
 </ul>
 
+Uma API é uma ótima maneira de compartilhar dados e/ou funcionalidades com outras pessoas ou programas. Entretanto, se os dados possuem tamanho relativamente pequeno, as APIs nem sempre são a melhor maneira de compartilhá-los. Nesse caso, talvez fosse interessante fornecer "data dump" na forma de arquivos JSON, XML ou CSV.  
+
+<h1>Terminologia API</h1>
+Ao construir ou usar APIs, encontramos frequentemente os seguintes termos:
+
+<ul>
+  <li><b>HTTP(Hypertext Transfer Protocol)</b></li>
+  <li><b>URL(Uniform Resource Locator)</b></li>
+  <li><b>JSON(JavaScript Object Notation)</b></li>
+  <li><b>REST(REpresentational State Transfer)</b></li>
+</ul>
+
 
