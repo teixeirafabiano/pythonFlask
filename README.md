@@ -34,4 +34,13 @@ Ao construir ou usar APIs, encontramos frequentemente os seguintes termos:
   <li><b>REST(REpresentational State Transfer)</b> é uma padronização que descreve algumas melhores práticas para implementação de APIS. Arquitetar e implementar APIs com alguns ou todos esses padrões é chamado de REST APIs. Embora use de alguns padrões REST, o tutorial pode ser descrito como Web API ou HTTP API.  </li>
 </ul>
 
+<h1>O que foi feito...</h1>
+Utilizando o conceito MVC (model, view, controller) foram criadas as seguintes classes:
+
+- DAO (Data Access Object): classe que gerencia o acesso ao sqLite;
+- CiclistaDAO (Ciclista Data Access Object): classe que gerencia quais acessos em quais objetos do sqLite;
+- CiclistaDTO (Ciclista Data Transfer Object): classe que possui o modelo do objeto ciclista;
+- CiclistaDLO (Ciclista Logical Object): classe de interface que define a lógica, ou seja, classe que implementa as funcionalidade ou casos de uso.
+
+E por último o arquivo api.py que utiliza o Flask Framework para definir as rotas e seus métodos de acesso.
 
