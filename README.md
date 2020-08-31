@@ -29,7 +29,7 @@ Ao construir ou usar APIs, encontramos frequentemente os seguintes termos:
 
 <ul>
   <li><b>HTTP(Hypertext Transfer Protocol)</b> é o principal meio de comunicação de dados na web. O HTTP implementa vários métodos que informa para qual direção e o que deve acontecer com os dados. Os dois métodos ais comuns são GET e POST.</li>
-  <li><b>URL(Uniform Resource Locator)</b> é um endereço de um recurso na web (https://www.jetbrains.com/pycharm/). Consite de um protocolo (http://), domínio (jetbrains.com) e um path opcional (/pycharm). </li>
+  <li><b>URL(Uniform Resource Locator)</b> é um endereço de um recurso na web (https://www.jetbrains.com/pycharm/). Consite de um protocolo (http://), domínio (jetbrains.com) e um path opcional (/pycharm). Uma URL descreve a localização de um recurso específico, como uma página da web. Ao ler sobre APIs é possível ver os termos URL, request, URI e endpoint usados para descrever ideias próximas ou semelhantes. Como forma de simplificar, o tutorial dará preferência ao termo URL e solicitações GET, portanto, não é preciso de nenhum software especial para fazer as requisições.</li>
   <li><b>JSON(JavaScript Object Notation)</b> é um texto baseado em formato de armazenamento de dados que tem por objetivo ser de fácil leitura por humanos e máquinas. JSON é o formato de retorno mais comum através de uma API e XML é o segundo mais comum.</li>
   <li><b>REST(REpresentational State Transfer)</b> é uma padronização que descreve algumas melhores práticas para implementação de APIS. Arquitetar e implementar APIs com alguns ou todos esses padrões é chamado de REST APIs. Embora use de alguns padrões REST, o tutorial pode ser descrito como Web API ou HTTP API.  </li>
 </ul>
