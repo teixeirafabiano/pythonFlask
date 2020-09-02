@@ -4,7 +4,7 @@ Criar Web APIs usando Python e Flask
 ====================================
 
 <h1>Pré-requisitos</h1>
-Python 3, <a href="https://flask.palletsprojects.com/en/1.1.x/">Flask Web Framework</a> e browser são necessários para esse "tutorial". Para quem não possui Python instalado, sugiro instalar pelo pacote do <a href="https://www.anaconda.com/">Anaconda</a>. Para "escrever" código Python você pode usar diversos IDEs de desenvolvimento como: Sublime, VS Code, NetBeans, PyCharm e até mesmo um editor de texto. Para esse tutorial e outros trabalhos, uso o <a href="https://www.jetbrains.com/pycharm/">PyCharm</a>.
+Python 3, <a href="https://flask.palletsprojects.com/en/1.1.x/">Flask Web Framework</a> e browser são necessários para esse "tutorial". Para quem não possui Python instalado, sugiro instalar pelo pacote do <a href="https://www.anaconda.com/">Anaconda</a>. Para "escrever" código Python você pode usar diversos IDEs de desenvolvimento como: Sublime, VS Code, NetBeans, PyCharm e até mesmo sem IDE, em um editor de texto. Para esse tutorial e outros trabalhos, uso o <a href="https://www.jetbrains.com/pycharm/">PyCharm</a>.
 
 <h1>Introdução a APIs</h1>
 Uma web API permite que informação ou funcionalidade seja manipulada por outros programas via internet. Por exemplo, com a web API do twitter você pode escrever um código que executa tarefas como: apresentar tweets favoritos ou coletar metadados de tweets.
